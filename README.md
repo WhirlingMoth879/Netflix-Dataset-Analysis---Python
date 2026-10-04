@@ -91,8 +91,6 @@ in the project folder.
 - Churn rate varies only slightly by region and favourite genre — tier and
   engagement level matter far more than demographics or content taste
 
-![Churn by subscription type](chart_churn_by_subscription.png)
-![Watch hours vs churn](chart_watch_hours_vs_churn.png)
 
 ## Possible extensions
 
