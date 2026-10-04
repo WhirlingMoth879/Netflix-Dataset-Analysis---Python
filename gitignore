@@ -1,0 +1,12 @@
+# Virtual environment
+venv/
+
+# Generated database
+netflix_stats.db
+
+# Python cache
+__pycache__/
+*.pyc
+
+# VS Code
+.vscode/
